@@ -1,0 +1,24 @@
+specVersion: "1"
+id: lax-421170
+leanVersion: "v4.33.0"
+mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
+title: "The independence number is at most the annihilation number"
+authors: []
+bibEntries:
+  - |
+    @phdthesis{Pepper2004,
+      author = {Pepper, Ryan},
+      title  = {Binding Independence},
+      school = {University of Houston},
+      year   = {2004}
+    }
+  - |
+    @article{LarsonPepper2011,
+      author  = {Larson, C. E. and Pepper, R.},
+      title   = {Graphs with Equal Independence and Annihilation Numbers},
+      journal = {The Electronic Journal of Combinatorics},
+      volume  = {18},
+      number  = {1},
+      pages   = {P180},
+      year    = {2011}
+    }
